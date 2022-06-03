@@ -8,7 +8,9 @@ A carrier uses cumulative devices to calculate revenue. Each month we need to bi
 The below information and the data on the Raw Data tab will be used to answer the below questions.		
 		
 1	Calculate the monthly revenue from the unique IMEI's for the past year.	
+
 2	Forecast the next years devices and revenue based on historical information. 	
+
 3	Create a calculator to project revenue and devices dependent on information provided by the account management team. 	
 		
 		
