@@ -23,3 +23,5 @@ The below information and the data on the Raw Data tab will be used to answer th
 	15,001+				$0.02 
 		
 
+Libraries used: pandas, numpy, matplotlib.pyplot, apyori, mlxtend.frequent_patterns (association_rules, apriori)
+--
