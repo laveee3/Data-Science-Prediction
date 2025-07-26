@@ -1,19 +1,35 @@
 # Prediction
 
+## 🚀 Features
+- **Exploratory Data Analysis (EDA)** with visualizations  
+- **Data cleaning and preprocessing pipelines**  
+- **Feature engineering techniques** (encoding, scaling, transformations)  
+- Multiple **machine learning algorithms** implemented and compared  
+- **Model evaluation metrics** and hyperparameter tuning  
+
+## ⚙️ Tech Stack
+- **Languages:** Python (3.8+)  
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn, XGBoost  
+- **Tools:** Jupyter Notebook, Git, virtualenv  
+
+## 📊 Workflow
+
+1. **Load and clean data** (handle missing values, duplicates, outliers)  
+2. **Feature selection and engineering**  
+3. **Train-test split and model selection**  
+4. **Model training and optimization**  
+5. **Evaluate and deploy**  
+
 Devices_Carrier_revenue
 -----------------------
-	
 Requirements:
 A carrier uses cumulative devices to calculate revenue. Each month we need to bill for all devices on a rolling total.		
 The below information and the data on the Raw Data tab will be used to answer the below questions.		
 		
 1	Calculate the monthly revenue from the unique IMEI's for the past year.	
-
 2	Forecast the next years devices and revenue based on historical information. 	
-
 3	Create a calculator to project revenue and devices dependent on information provided by the account management team. 	
-		
-		
+				
 	License Fee per Device:
 	----------------------- 
 	Number of Active Devices	Licence Fee
@@ -22,6 +38,4 @@ The below information and the data on the Raw Data tab will be used to answer th
 	7,501-15,000			$0.03 
 	15,001+				$0.02 
 		
-
-Libraries used: pandas, numpy, matplotlib
 --
