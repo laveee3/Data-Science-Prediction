@@ -1,6 +1,6 @@
 # Prediction
 
-## 🚀 Features
+##  Features
 - **Exploratory Data Analysis (EDA)** with visualizations  
 - **Data cleaning and preprocessing pipelines**  
 - **Feature engineering techniques** (encoding, scaling, transformations)  
